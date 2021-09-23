@@ -15,10 +15,13 @@ h1 {
 a {
   color: #00ffbf;
 }
-#tent {
-  width: 100%;
-  height: auto;
-}
+
+@media only screen and (max-width: 960px) {
+    #tent {
+      width:100%;
+      height: auto;
+    }
+  }
 
 figcaption {
     display: none;
