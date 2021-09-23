@@ -23,6 +23,21 @@ a {
     }
   }
 
+  #excursion-desc {
+    color: #808080;
+    font-size: 21px;
+  }
+
+  #travel-guide-header{
+      font-weight: 300;
+      font-size: 42px;
+  }
+
 figcaption {
     display: none;
+}
+
+footer {
+    text-align: right;
+    color: #808080
 }
